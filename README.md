@@ -42,5 +42,5 @@ If you encounter any bugs or have suggestions for improvements, please [open an 
 Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Contact
-For any inquiries or further information, feel free to contact [yourname](mailto:youremail@example.com).
+For any inquiries or further information, feel free to contact [Kalyan](mailto:pallelakalyan20@gmail.com).
 
